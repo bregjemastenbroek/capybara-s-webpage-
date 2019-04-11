@@ -96,6 +96,10 @@ h2 {
 	  margin: 6px;
 	  } 
 	  
-
+span{
+    display:inline-block;
+    border-bottom:2px solid grey;
+    padding-bottom:2px;
+}
 	  
 	  
