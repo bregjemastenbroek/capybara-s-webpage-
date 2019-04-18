@@ -103,3 +103,7 @@ span{
 }
 	  
 	  
+p {
+ 
+  max-width: 75ch;
+}
