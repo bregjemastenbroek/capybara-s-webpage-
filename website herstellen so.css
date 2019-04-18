@@ -68,9 +68,10 @@ h2 {
 
 
 .page-nav {
- position: absolute ;
-top: 300px;
-    right: 40px;
+position: absolute ;
+ top: 300px;
+right: 40px;
+color: #6f717d;
 }
 
   .page-nav ul {
@@ -85,13 +86,7 @@ top: 300px;
       line-height: 200%;
     } 
 
-      .page-nav ul li:hover {
-        left: 4px;
-      }
-
-      .page-nav ul li a:visited {
-        color: #6f717d;
-      }
+  
 	  
 	  img.floatLeft { 
 	  float: left;
