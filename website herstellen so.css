@@ -68,7 +68,9 @@ h2 {
 
 
 .page-nav {
- 
+ position: absolute ;
+top: 300px;
+    right: 40px;
 }
 
   .page-nav ul {
